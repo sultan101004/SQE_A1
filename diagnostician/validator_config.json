@@ -1,0 +1,57 @@
+{
+    "ranges": {
+        "Ambient Temperature": [
+            -45.0,
+            135.0
+        ],
+        "Ambient wet-bulb": [
+            -40.0,
+            100.0
+        ],
+        "Chilled Water Supply Temperature": [
+            30.0,
+            80.0
+        ],
+        "CT Sump Temperature": [
+            32.0,
+            130.0
+        ],
+        "CT Inlet Temperature": [
+            35.0,
+            130.0
+        ],
+        "Compressor Current": [
+            0.0,
+            null
+        ],
+        "Condenser Pump Current": [
+            0.0,
+            200.0
+        ],
+        "Chilled Water Pump Current": [
+            0.0,
+            200.0
+        ],
+        "Secondary CHW Pump(s) Current": [
+            0.0,
+            200.0
+        ],
+        "CT Fan(s) Current": [
+            0.0,
+            200.0
+        ],
+        "Condenser Fan(s) Current": [
+            0.0,
+            200.0
+        ],
+        "Supply Fan(s) Current": [
+            0.0,
+            1000.0
+        ]
+    },
+    "thresholds": {
+        "Temperature": 3,
+        "Current": 3,
+        "Switch": 3
+    }
+}

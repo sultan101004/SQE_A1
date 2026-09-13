@@ -1,0 +1,3 @@
+2026-09-13 21:12:55 | module=auth | function=attempt_login | description=Failed login attempt
+2026-09-13 21:12:56 | module=file_parser | function=parse_file | description=File missing header
+2026-09-13 21:12:56 | module=main | function=on_start_diagnostics | description=Hardware disconnect

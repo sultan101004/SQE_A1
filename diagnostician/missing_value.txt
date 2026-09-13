@@ -1,0 +1,6 @@
+#Test Run
+#Sensor Name
+Ambient Temperature	Compressor Current
+Building Identifier	1	1
+Input Identifier	1	2
+09/13/26 14:30	75.0	NONE
